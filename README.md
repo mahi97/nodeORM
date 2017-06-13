@@ -1,2 +1,2 @@
 # nodeORM
-a simple form and database form with nodes
+a simple ORM with nodeJS and sequlizer
